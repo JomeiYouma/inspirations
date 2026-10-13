@@ -1,0 +1,10 @@
+node_modules
+dist
+.vercel
+.DS_Store
+.env*
+
+# Documents de travail, hors dépôt
+questionnaire.md
+notes.local.md
+src/data/inspirations.js
